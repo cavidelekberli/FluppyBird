@@ -168,7 +168,7 @@
 			attributes = {
 				LastSwiftMigration = 0700;
 				LastSwiftUpdateCheck = 0700;
-				LastUpgradeCheck = 1110;
+				LastUpgradeCheck = 1330;
 				ORGANIZATIONNAME = Fullstack.io;
 				TargetAttributes = {
 					437451F9193D163700654986 = {
